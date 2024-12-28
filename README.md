@@ -1,4 +1,4 @@
-# :sparkles:Setting
+# :pushpin:Setting
 <details>
 <summary>
   <a href="README_deit.md">DeiT</a> Data-Efficient Image Transformers, ICML 2021 [<b>bib</b>]
@@ -18,7 +18,7 @@
 </details>
 
 
-# :rocket:Poster
+# :pushpin:Poster
 ![image](https://github.com/yeonsik0710/custom_vit/blob/main/img/poster.png)
 
 
