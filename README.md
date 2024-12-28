@@ -16,11 +16,11 @@
 }
 ```
 </details>
-<br>
+
 
 # :rocket:Poster
 ![image](https://github.com/yeonsik0710/custom_vit/blob/main/img/poster.png)
-<br>
+
 
 # :thumbsup:Reference
 1. H. You, et al., "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design." in IEEE, 2023.
