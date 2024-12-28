@@ -1,3 +1,10 @@
+# Data-aware Sparsity for ViT: Efficient Algorithm-HW Co-design with Windowed Attention
+
+### Introduction
+- NLP와 CV domain에서 transformer가 우월한 성능을 보이고 있다. 
+
+
+
 # Data-Efficient architectures and training for Image classification
 
 This repository contains PyTorch evaluation code, training code and pretrained models for the following papers:
